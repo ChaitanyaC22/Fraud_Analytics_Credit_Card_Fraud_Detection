@@ -1,5 +1,5 @@
 # Fraud Analytics - Credit Card Fraud Detection Project
-The aim of this project is **to predict fraudulent credit card transactions with the help of machine learning models.**
+The aim of this project is **to predict fraudulent credit card transactions with the help of different machine learning models.**
 
 In this project, you will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group. 
 
