@@ -39,5 +39,3 @@ The project pipeline can be briefly summarised in the following four steps:
 -   **Model building / hyperparameter tuning:** This is the final step at which you can try different models and fine-tune their hyperparameters until you get the desired level of performance on the given data set. You should try and check if you get a better model by various sampling techniques.
 -   **Model evaluation:** Evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced, it is is more important to identify the fraudulent transactions accurately than the non-fraudulent ones. Choose an appropriate evaluation metric that reflects this business goal.
 
-
-**Note**: Everything has to be submitted in one Jupyter Notebook. 
